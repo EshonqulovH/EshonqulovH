@@ -21,8 +21,7 @@ I'm a passionate and motivated **Data Scientist** from Uzbekistan 🇺🇿 with 
 - Data Visualization Projects with Power BI
 - 
 - 📫 How to reach me:
-- 📧 Email: eshonqulov.haqnazar@gmail.com  
-- 🌐 Portfolio: [Visit Portfolio](https://eshonqulovh-haqnazar-project-world-cuisine-a1-pth1kg.streamlit.app/)  
+- 📧 Email: khaknazareshankulov@gmail.com  
 - 💼 LinkedIn: [Eshonqulov Haqnazar](www.linkedin.com/in/khaknazar-eshonkulov-4b2a86321)   
 - 🐙 GitHub: [@EshonqulovH](https://github.com/EshonqulovH)
 - 
